@@ -1,0 +1,9 @@
+env\scripts\pip install wheel
+
+env\scripts\pip wheel azure==0.8.4
+
+env\scripts\pip install numpy
+
+numpy==1.11.0
+azure==0.8.4
+python-3.4
